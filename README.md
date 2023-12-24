@@ -16,5 +16,6 @@ This feature was produced in May 2021 and launched in August of that year. I hav
 
 # Feature Demos
 
+![](https://github.com/anshulpattoo/cofocus-contributions/blob/main/readme_files/session_creation_deletion.gif)
 
 
