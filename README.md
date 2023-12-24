@@ -24,11 +24,6 @@ This feature was produced in May 2021 and launched in August of that year. I hav
 
 ## Disconnecting Google Calendar and creating and deleting a session without Google Calendar synchronized:
 
-![Connecting_Google_Calendar](https://github.com/anshulpattoo/cofocus/contributions/blob/main/readme_files/session_creation_deletion_disconnectedgcal.gif)
+![Connecting_Google_Calendar](https://github.com/anshulpattoo/cofocus-contributions/blob/main/readme_files/session_creation_deletion_disconnected_gcal.gif)
 
-[Full Demo](https://youtu.be/FCxxXJ9WBtQ) available here.
-
-
-
-
-
+## [Full video demo](https://youtu.be/FCxxXJ9WBtQ) of feature
