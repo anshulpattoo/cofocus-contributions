@@ -1,6 +1,6 @@
-![Cofocus_Logo](https://github.com/anshulpattoo/cofocus-contributions/assets/41569741/2c99e52c-c6b9-4f4a-ab17-dd9af9eb0d23)
+[![Cofocus_Logo](https://github.com/anshulpattoo/cofocus-contributions/assets/41569741/2c99e52c-c6b9-4f4a-ab17-dd9af9eb0d23)](https://cofocus.one)
 
-# About Cofocus
+# About [Cofocus](https://cofocus.one)
 Cofocus connects people from all over the world for virtual coworking sessions to help people be more productive.
 
 You can be a student studying for an exam, a teacher prepping for class, a writer writing your first novel, a coder trying to fix that pesky bug or just someone trying to learn a new skill or even get some reading done — if you’re working on your own, you can benefit from Cofocus.
@@ -8,6 +8,8 @@ You can be a student studying for an exam, a teacher prepping for class, a write
 The way Cofocus works is by scheduling sessions at times you’d like to get some work done and then being matched with accountability partners. When a session starts, you and your partner join, greet each other, declare goals for the session and get to work. When a session ends, you exchange how your session went, perhaps chit-chat a little and then part ways.
 
 We believe every human has a tremendous amount of potential in them and that if more people were able to realize their potential without being stopped in their tracks by the endless distractions of the modern world, we’d solve many of the world’s problems and move towards a cooler and better world much faster.
+
+More information about Cofocus is available [here](https://cofocus.one). 
 
 # About this repository
 This repository specifically comprises the code I produced to implement the Google Calendar Integration feature. This feature allows a user to connect their Cofocus calendar to their Google Calendar, so that all the sessions one books or cancels will also appear on their Google Calendar. This feature works for all the sessions a user creates after connecting Cofocus to their Google Calendar.
