@@ -16,7 +16,5 @@ This feature was produced in May 2021 and launched in August of that year. I hav
 
 # Feature Demos
 
-![V2 (1)](https://github.com/anshulpattoo/cofocus-contributions/assets/41569741/61ddd2b5-f841-45f3-84ec-72272e3d77db)
-
 
 
