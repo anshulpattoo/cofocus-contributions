@@ -24,8 +24,7 @@ Connecting Google Calendar:
 
 Disconnecting Google Calendar:
 
-Full Demo (on YouTube):
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/FCxxXJ9WBtQ/0.jpg)](https://youtu.be/FCxxXJ9WBtQ)
+(Full Demo)[https://youtu.be/FCxxXJ9WBtQ] available here.
 
 
 
