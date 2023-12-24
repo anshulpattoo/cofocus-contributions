@@ -9,10 +9,10 @@ The way Cofocus works is by scheduling sessions at times you’d like to get som
 
 We believe every human has a tremendous amount of potential in them and that if more people were able to realize their potential without being stopped in their tracks by the endless distractions of the modern world, we’d solve many of the world’s problems and move towards a cooler and better world much faster.
 
-More information about Cofocus is available [here](https://cofocus.one). 
+More information about Cofocus is available [here](https://cofocus.one/about). 
 
 # About this repository
-This repository specifically comprises the code I produced to implement the Google Calendar Integration feature. This feature allows a user to connect their Cofocus calendar to their Google Calendar, so that all the sessions one books or cancels will also appear on their Google Calendar. This feature works for all the sessions a user creates after connecting Cofocus to their Google Calendar.
+This repository specifically comprises code I developed to implement the Google Calendar Integration feature. This feature allows a user to connect their Cofocus calendar to their Google Calendar, so that all the sessions one books or cancels will also appear on their Google Calendar. This feature works for all the sessions a user creates after connecting Cofocus to their Google Calendar.
 
 This feature was produced in May 2021 and launched in August of that year. I have not contibuted to Cofocus since then, aside from discussions with the co-founders, however, I anticipate contributing substantially in 2024. As my contributions increase, distinct repositories will be produced for organization, each comprising the feature to which these contributions are relevant.
 
